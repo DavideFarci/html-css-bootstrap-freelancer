@@ -11,3 +11,8 @@
 .bg1 {
     background-color: #1ABC9C;
 }
+
+.content {
+    background-color: brown;
+    height: 10rem;
+}
