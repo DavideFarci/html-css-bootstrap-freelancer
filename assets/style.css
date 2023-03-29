@@ -17,14 +17,14 @@ nav {
     background-color: #1ABC9C;
 }
 
-.bg1 img {
-    width: 300px;
+.bg1-margin {
+    background-color: #1ABC9C;
+    margin-top: 3rem;
 }
 
-/* .content {
-    background-color: brown;
-    border-radius: 20%;
-} */
+.bg1-margin img {
+    width: 300px;
+}
 
 .content img {
     width: 100%;
@@ -65,6 +65,7 @@ nav {
 .star2-black {
     font-size: 1.5em;
 }
+
 .star2-black::before {
     position: absolute;
     content: "";
