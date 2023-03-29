@@ -4,6 +4,9 @@
     font-size: 1.3em;
 }
 
+nav {
+    background-color: #2C3E50;
+}
 
 .content-col {
     height: 2rem;
