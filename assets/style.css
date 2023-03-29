@@ -26,8 +26,36 @@ nav {
     width: 300px;
 }
 
+.content {
+    position: relative;
+}
+
 .content img {
     width: 100%;
+}
+
+.portfolio .content:hover img {
+    filter:blur(2px);
+    cursor: pointer;
+}
+
+.content .fa-plus {
+    display: none;
+    font-size: 6em;
+    position: absolute;
+    bottom: 50%;
+    left: 50%;
+    transform: translate(-50%, 50%);
+}
+
+.portfolio .content:hover .fa-plus {
+    display: unset;
+    cursor: pointer;
+}
+
+.content .fa-plus:hover {
+    text-shadow: #FFF 1px 0 10px;
+
 }
 
 .star2 {
