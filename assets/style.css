@@ -35,7 +35,7 @@ nav {
 }
 
 .portfolio .content:hover img {
-    filter:blur(2px);
+    filter:blur(3px);
     cursor: pointer;
 }
 
