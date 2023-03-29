@@ -4,6 +4,7 @@
     font-size: 1.3em;
 }
 
+
 .content-col {
     height: 2rem;
     background-color: brown;
@@ -11,6 +12,10 @@
 
 .bg1 {
     background-color: #1ABC9C;
+}
+
+.bg1 img {
+    width: 300px;
 }
 
 .content {
