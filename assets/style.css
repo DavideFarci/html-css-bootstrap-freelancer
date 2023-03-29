@@ -21,10 +21,10 @@ nav {
     width: 300px;
 }
 
-.content {
+/* .content {
     background-color: brown;
-    /* height: 10rem; */
-}
+    border-radius: 20%;
+} */
 
 .content img {
     width: 100%;
@@ -41,8 +41,8 @@ nav {
 .star2::before {
     position: absolute;
     content: "";
-    top: 17px;
-    left: 29rem;
+    top: 48%;
+    left: 41%;
     display: inline-block;
     height: 4px;
     width: 80px;
@@ -52,8 +52,8 @@ nav {
 
 .star2::after {
     position:absolute;
-    top: 17px;
-    right: 29rem;
+    top: 48%;
+    right: 41%;
     content: "";
     display: inline-block;
     height: 4px;
@@ -68,8 +68,8 @@ nav {
 .star2-black::before {
     position: absolute;
     content: "";
-    top: 17px;
-    left: 29rem;
+    top: 48%;
+    left: 41%;
     display: inline-block;
     height: 4px;
     width: 80px;
@@ -79,8 +79,8 @@ nav {
 
 .star2-black::after {
     position:absolute;
-    top: 17px;
-    right: 29rem;
+    top: 48%;
+    right: 41%;
     content: "";
     display: inline-block;
     height: 4px;
