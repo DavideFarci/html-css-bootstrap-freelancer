@@ -29,3 +29,62 @@ nav {
 .content img {
     width: 100%;
 }
+
+.star2 {
+    font-size: 1.5em;
+}
+
+.star-container {
+    position: relative;
+}
+
+.star2::before {
+    position: absolute;
+    content: "";
+    top: 17px;
+    left: 29rem;
+    display: inline-block;
+    height: 4px;
+    width: 80px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.star2::after {
+    position:absolute;
+    top: 17px;
+    right: 29rem;
+    content: "";
+    display: inline-block;
+    height: 4px;
+    width: 80px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.star2-black {
+    font-size: 1.5em;
+}
+.star2-black::before {
+    position: absolute;
+    content: "";
+    top: 17px;
+    left: 29rem;
+    display: inline-block;
+    height: 4px;
+    width: 80px;
+    background-color: black;
+    border-radius: 10px;
+}
+
+.star2-black::after {
+    position:absolute;
+    top: 17px;
+    right: 29rem;
+    content: "";
+    display: inline-block;
+    height: 4px;
+    width: 80px;
+    background-color: black;
+    border-radius: 10px;
+}
