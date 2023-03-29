@@ -14,5 +14,9 @@
 
 .content {
     background-color: brown;
-    height: 10rem;
+    /* height: 10rem; */
+}
+
+.content img {
+    width: 100%;
 }
