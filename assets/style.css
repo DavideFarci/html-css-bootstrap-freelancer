@@ -55,11 +55,11 @@ nav {
 
 .content .fa-plus:hover {
     text-shadow: #FFF 1px 0 10px;
-
+    transition: 1s;
 }
 
 .star2 {
-    font-size: 1.5em;
+    font-size: 2em;
 }
 
 .star2::before {
@@ -85,7 +85,7 @@ nav {
 }
 
 .star2-black {
-    font-size: 1.5em;
+    font-size: 2em;
 }
 
 .star2-black::before {
