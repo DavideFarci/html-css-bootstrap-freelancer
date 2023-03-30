@@ -1,26 +1,21 @@
-.bg {
+/* .bg {
     background-color: #2C3E50;
     height: 5rem;
     font-size: 1.3em;
-}
+} */
 
 nav {
     background-color: #2C3E50;
 }
 
-.content-col {
-    height: 2rem;
-    background-color: brown;
-}
-
-.bg1 {
-    background-color: #1ABC9C;
-}
+/* profilo  */
 
 .bg1-margin {
     background-color: #1ABC9C;
     margin-top: 3rem;
 }
+
+/* portfolio  */
 
 .bg1-margin img {
     width: 300px;
@@ -110,6 +105,8 @@ nav {
     border-radius: 10px;
 }
 
+/* contatti  */
+
 .contact-me button {
     color: white;
     background-color: #1ABC9C ;
@@ -117,6 +114,14 @@ nav {
     border-radius: 5px;
     padding: .3rem .7rem;
 }
+
+/* about  */
+
+.bg1 {
+    background-color: #1ABC9C;
+}
+
+/* footer */
 
 .footer-big {
     background-color: #3A546D;
